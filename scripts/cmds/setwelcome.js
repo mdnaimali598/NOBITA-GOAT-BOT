@@ -28,7 +28,7 @@ module.exports = {
 					+ "\n\n   Ví dụ:"
 					+ "\n    {pn} file reset: xóa gửi file",
 				attachment: {
-					[`${__dirname}/assets/guide/setwelcome/setwelcome_vi_1.png`]: "https://i.ibb.co/vd6bQrW/setwelcome-vi-1.png"
+					[`${__dirname}/assets/guide/setwelcome/setwelcome_vi_1.png`]: "https://files.catbox.moe/prjtqp.gif"
 				}
 			},
 			en: {
