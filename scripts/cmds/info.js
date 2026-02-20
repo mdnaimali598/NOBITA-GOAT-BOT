@@ -26,7 +26,7 @@ module.exports = {
 				facebook: 'https://www.facebook.com/NATOKBAZ.NAIM1'
 			};
 
-			const NAIM = 'https://files.catbox.moe/do2kb3.jpeg';
+			cons Ullash= 'https://files.catbox.moe/l3a10r.png';
 			const tmpFolderPath = path.join(__dirname, 'tmp');
 
 			if (!fs.existsSync(tmpFolderPath)) {
